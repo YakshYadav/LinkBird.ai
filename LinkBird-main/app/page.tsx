@@ -25,7 +25,7 @@ export default function Home() {
     // Mock login
     setUser({
       id: '1',
-      name: 'John Doe',
+      name: 'Pulkit Garg',
       email: email,
       role: 'admin',
       createdAt: new Date()
@@ -36,8 +36,8 @@ export default function Home() {
     // Mock Google login
     setUser({
       id: '1',
-      name: 'John Doe',
-      email: 'john@example.com',
+      name: 'Pulkit Garg',
+      email: 'pulkit@kandid.ai',
       role: 'admin',
       createdAt: new Date()
     });
